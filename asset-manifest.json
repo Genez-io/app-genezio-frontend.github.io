@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://genez.io/static/css/main.b5ce2762.css",
-    "main.js": "https://genez.io/static/js/main.a8ef81d4.js",
+    "main.js": "https://genez.io/static/js/main.8399e12c.js",
     "static/js/7656.1c6c30b9.chunk.js": "https://genez.io/static/js/7656.1c6c30b9.chunk.js",
     "static/js/4767.3410d4ef.chunk.js": "https://genez.io/static/js/4767.3410d4ef.chunk.js",
     "static/js/1863.8e34f0bb.chunk.js": "https://genez.io/static/js/1863.8e34f0bb.chunk.js",
@@ -732,7 +732,7 @@
     "static/media/pl.svg": "https://genez.io/static/media/pl.55073d98d77a5b6ce0c1.svg",
     "static/media/bd.svg": "https://genez.io/static/media/bd.cdbfe8d5d9dedda3b314.svg",
     "main.b5ce2762.css.map": "https://genez.io/static/css/main.b5ce2762.css.map",
-    "main.a8ef81d4.js.map": "https://genez.io/static/js/main.a8ef81d4.js.map",
+    "main.8399e12c.js.map": "https://genez.io/static/js/main.8399e12c.js.map",
     "7656.1c6c30b9.chunk.js.map": "https://genez.io/static/js/7656.1c6c30b9.chunk.js.map",
     "4767.3410d4ef.chunk.js.map": "https://genez.io/static/js/4767.3410d4ef.chunk.js.map",
     "1863.8e34f0bb.chunk.js.map": "https://genez.io/static/js/1863.8e34f0bb.chunk.js.map",
@@ -940,6 +940,6 @@
   },
   "entrypoints": [
     "static/css/main.b5ce2762.css",
-    "static/js/main.a8ef81d4.js"
+    "static/js/main.8399e12c.js"
   ]
 }
